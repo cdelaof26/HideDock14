@@ -9,3 +9,4 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Pre-Depends: firmware (>=14.0)
 Depiction: https://cdelaof26.github.io/repo/depictions/?p=com.wholesomethoughts26.HideDock14
+Icon: https://cdelaof26.github.io/repo/IMG/Tweaks/hdipad14.png
